@@ -5,8 +5,8 @@
 #include <stdbool.h>
 #include <errno.h>
 
-#include "headers/Linked_List.h"
-#include "headers/read_int.h"
+#include "Linked_List.h"
+#include "read_int.h"
 
 LinkedListPtr head;
 

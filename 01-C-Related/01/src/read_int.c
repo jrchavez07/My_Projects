@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "headers/read_int.h"
-#include "headers/__curses.h"
+#include "read_int.h"
+#include "__curses.h"
 
 int
 read_int(int *pn)

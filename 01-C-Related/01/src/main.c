@@ -3,8 +3,8 @@
 #include <stdbool.h>
 #include <err.h>
 
-#include "headers/Linked_List.h"
-#include "headers/read_int.h"
+#include "Linked_List.h"
+#include "read_int.h"
 
 static void menu(void);
 

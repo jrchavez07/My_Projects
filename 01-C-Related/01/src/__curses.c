@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <err.h>
 
-#include "headers/__curses.h"
+#include "__curses.h"
 
 char buf[BUFSIZ];
 int bufp = 0;
